@@ -1,0 +1,104 @@
+site_name: Dr. Nirmal Parmar
+site_url: https://nirmalparmar.in
+site_description: "Dr. Nirmal Parmar's personal website"
+site_author: Nirmal Parmar
+copyright: 
+  "Copyright © Nirmal Parmar"
+
+theme:
+  name: material
+  icon:
+    logo: material/alpha-n-box
+    favicon: material/alpha-n-box
+  features:
+    - navigation.tabs
+    - navigation.footer
+    - navigation.instant
+    - navigation.top
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tracking
+    - content.code.annotate
+    - content.code.copy
+    - content.code.highlight
+    - content.code.tabs
+    - content.code.include
+    - content.code.extra
+    - content.search.highlight
+    - content.search.share
+    - content.search.suggest
+    - content.search.autocomplete
+    - content.search.highlight
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  plugins:
+    - privacy
+    - search
+    - git-revision-date-localized
+    - awesome-pages
+
+extra:
+  analytics:
+    provider: google
+    property: G-VMP517TNTX
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nirmalparmarphd
+      name: GitHub - Dr. Nirmal Parmar
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@nirmalparmarphd
+      name: Medium Articles
+    - icon: fontawesome/solid/graduation-cap
+      link: https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en
+      name: Google Scholar
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nirmal-parmar-phd-3a440037
+      name: LinkedIn Profile
+    - icon: fontawesome/solid/atom
+      link: https://www.machinegnostics.info/
+      name: Machine Gnostics
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4603-1550
+      name: ORCID Profile
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Nirmal-Parmar
+      name: ResearchGate
+      
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+nav:
+  - Home: index.md
+  - Profile: profile.md
+  # - Business: business.md
+  # - Research: research.md
+  - Machine Gnostics: ai-mg.md
+  - Publications: publications.md
+  # - Circle: circle.md 
+  - Contact: contact.md
+
