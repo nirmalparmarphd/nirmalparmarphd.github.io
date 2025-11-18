@@ -6,7 +6,7 @@ Dr. Nirmal Parmar is a global leader and Director of AI at Novartis, pioneering 
 Dr. Parmar is the visionary founder of the first machine learning library **Machine Gnostics** that operates on non-statistical principles, fundamentally challenging traditional approaches to AI. His groundbreaking work focuses on innovation in applying AI across engineering and business processes, delivering transformative solutions that redefine industry standards.
 
 <p align="center">
-    <img src="./image/nirmal-web-1.jpg" alt="Dr. Nirmal Parmar" width="300" style="border-radius: 8px;">
+    <img src="image/nirmal-web-1.jpg" alt="Dr. Nirmal Parmar" width="300" style="border-radius: 8px;">
 </p>
 
 ## Connect with Dr. Parmar

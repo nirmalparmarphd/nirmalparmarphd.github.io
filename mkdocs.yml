@@ -1,5 +1,7 @@
 site_name: Dr. Nirmal Parmar
-site_url: https://nirmalparmar.in
+site_url: https://nirmalparmarphd.github.io/
+# repo_url: https://github.com/nirmalparmarphd
+# repo_name: nirmalparmarphd/np-io
 site_description: "Dr. Nirmal Parmar's personal website"
 site_author: Nirmal Parmar
 copyright: 
@@ -102,3 +104,5 @@ nav:
   # - Circle: circle.md 
   - Contact: contact.md
 
+extra_css:
+  - stylesheets/extra.css
