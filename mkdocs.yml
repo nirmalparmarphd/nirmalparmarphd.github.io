@@ -1,5 +1,5 @@
 site_name: Dr. Nirmal Parmar
-site_url: https://nirmalparmarphd.github.io/
+site_url: https://nirmalparmar.in
 # repo_url: https://github.com/nirmalparmarphd
 # repo_name: nirmalparmarphd/np-io
 site_description: "Dr. Nirmal Parmar's personal website"
@@ -55,7 +55,7 @@ theme:
 extra:
   analytics:
     provider: google
-    property: G-VMP517TNTX
+    property: G-MPM4EMNXF8
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/nirmalparmarphd
