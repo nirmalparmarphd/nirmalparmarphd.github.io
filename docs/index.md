@@ -1,4 +1,5 @@
 # **Dr. Nirmal Parmar**
+
 > Global AI Director at Novartis | Research Scientist | Founder of Machine Gnostics
 
 Dr. Nirmal Parmar is a global leader and Director of AI at Novartis, pioneering the intersection of thermal engineering and non-statistical artificial intelligence. As a distinguished research scientist specializing in Thermal Engineering and non-statistical AI paradigms, he has revolutionized how industries approach machine learning and data science.
@@ -6,7 +7,7 @@ Dr. Nirmal Parmar is a global leader and Director of AI at Novartis, pioneering 
 Dr. Parmar is the visionary founder of the first machine learning library **Machine Gnostics** that operates on non-statistical principles, fundamentally challenging traditional approaches to AI. His groundbreaking work focuses on innovation in applying AI across engineering and business processes, delivering transformative solutions that redefine industry standards.
 
 <p align="center">
-    <img src="image/nirmal-web-1.jpg" alt="Dr. Nirmal Parmar" width="300">
+    <img src="image/nirmal.jpg" alt="Dr. Nirmal Parmar" width="300">
 </p>
 
 ## Connect with Dr. Parmar
@@ -40,6 +41,7 @@ Dr. Parmar is the visionary founder of the first machine learning library **Mach
 Dr. Parmar's influence extends across a vast network of research institutions, universities, and industry leaders worldwide. His collaborative approach focuses on AI integration and digital transformation in engineering applications and business processes, bridging the gap between cutting-edge research and practical industrial implementation.
 
 ### Research Collaborations
+
 - **Universities & Research Institutes**: Partnering with leading academic institutions to advance non-statistical AI research and develop next-generation engineering solutions
 - **Industry Leaders**: Working with global corporations to implement AI-driven digital transformation initiatives across manufacturing, pharmaceutical, and process industries
 - **Innovation Networks**: Collaborating with researchers and scientists to explore novel applications of non-statistical AI in complex engineering systems
@@ -47,13 +49,9 @@ Dr. Parmar's influence extends across a vast network of research institutions, u
 ### Areas of Impact
 
 - **Engineering Innovations**: Thermal & Process Engineering, Pharmaceutical Manufacturing, Industrial Automation
-
 - **Business Digital Transformations**: Enterprise AI Strategy, Supply Chain Intelligence, Operations Research
-
 - **Emerging Technologies & Research**: Healthcare & Biotechnology, Automotive & Aerospace, Materials Science
-
 - **Cross-Industry Applications**: Data Science & Analytics, IoT & Smart Systems, Consulting & Advisory
-
 
 > Dr. Parmar welcomes collaboration with forward-thinking organizations, research institutions, and individual researchers who are ready to explore the transformative potential of non-statistical AI in engineering and business applications.
 
