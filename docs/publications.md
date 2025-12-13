@@ -62,7 +62,7 @@
 
 </small>
 
-## Research Focus Areas
+<!-- ## Research Focus Areas
 
 <small>
 
@@ -78,5 +78,5 @@ Dr. Parmar's research spans multiple domains with a focus on:
 - **Energy Storage Technologies**: Advanced materials and systems for efficient thermal and chemical energy storage
 - **Sustainable Engineering**: Development of eco-friendly technologies and environmentally conscious engineering solutions
 
-</small>
+</small> -->
 

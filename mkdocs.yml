@@ -69,7 +69,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nirmal-parmar-phd-3a440037
       name: LinkedIn Profile
-    - icon: fontawesome/solid/atom
+    - icon: fontawesome/solid/seedling
       link: https://www.machinegnostics.info/
       name: Machine Gnostics
     - icon: fontawesome/brands/orcid
@@ -91,6 +91,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.arithmatex:
       generic: true
 

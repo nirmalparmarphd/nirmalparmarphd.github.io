@@ -1,80 +1,185 @@
-## Machine Gnostics: Revolutionary AI Framework
+# Machine Gnostics
+*AI Rooted in the Laws of Nature*
 
-**"Redesigning the mathematical core of AI"**
+!!! abstract "Revolutionary Framework"
+    **Machine Gnostics** represents the world's first comprehensive non-statistical machine learning framework, fundamentally challenging traditional AI by encoding the laws of nature directly into algorithms.
 
-Dr. Parmar is the founder and visionary behind Machine Gnostics, a revolutionary open-source Python library that represents the world's first comprehensive implementation of non-statistical machine learning. This groundbreaking initiative fundamentally challenges the probabilistic foundations of modern artificial intelligence by encoding the laws of nature—geometry, physics, entropy—directly into algorithms.
+<figure markdown="span">
+    <img src="../image/mango-what-is-mg-1.png" alt="Machine Gnostics Framework" style="width: 80%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+    <figcaption>Machine Gnostics: Scientific Foundation & AI Application</figcaption>
+</figure>
 
-### The Genesis of a Paradigm Shift
+## Foundation Principles
 
-Machine Gnostics emerged from Dr. Parmar's recognition that conventional machine learning's reliance on statistical inference and probabilistic models fundamentally limits its effectiveness in engineering applications where deterministic relationships and physical laws govern system behavior. Building upon the foundational work of Dr. Pavel Kovanic's Mathematical Gnostics theory from the 1980s, Dr. Parmar has successfully bridged pure mathematical theory with practical AI implementation.
+<div class="mg-principles">
+  <div class="principle-card">
+    <div class="principle-header">
+      <h3>Scientific Foundation</h3>
+    </div>
+    <div class="principle-content">
+      <ul>
+        <li><strong>Relativistic Physics</strong> - Energy-momentum law for data modeling</li>
+        <li><strong>Riemannian Geometry</strong> - Curved space for uncertainty quantification</li>
+        <li><strong>Thermodynamics</strong> - Information theory and entropy principles</li>
+        <li><strong>Universal Bounds</strong> - Mathematical constraints from nature</li>
+      </ul>
+    </div>
+  </div>
 
-### Core Philosophy: "Laws of Nature, Encoded—For Everyone!"
+  <div class="principle-card">
+    <div class="principle-header">
+      <h3>Non-Statistical Architecture</h3>
+    </div>
+    <div class="principle-content">
+      <ul>
+        <li><strong>Deterministic Principles</strong> - Data as measurable, material causes</li>
+        <li><strong>Small Data Excellence</strong> - Works regardless of dataset size</li>
+        <li><strong>Noise Resilience</strong> - Exceptional outlier and corruption resistance</li>
+        <li><strong>Truth Extraction</strong> - Data speaks for themselves</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-Unlike traditional statistical approaches that depend heavily on probabilistic assumptions and large datasets, Machine Gnostics harnesses deterministic algebraic and geometric structures rooted in:
+## Core Capabilities
 
-- **Entropy Theory**: Drawing from thermodynamics and information theory
-- **Space Curvature**: Utilizing Riemannian geometry for uncertainty modeling  
-- **Universal Bounds**: Applying [0, ∞] mathematical constraints from nature
-- **Relativistic Mechanics**: Incorporating Einstein's physics into data analysis
+<div class="mg-capabilities">
+  <div class="capability-item">
+    <h4>Robust Data Aggregation</h4>
+    <p>Models data uncertainty like relativistic particles, enabling robust analysis that is resilient to outliers and noise.</p>
+  </div>
 
-### Revolutionary Technical Foundation
+  <div class="capability-item">
+    <h4>Real-World Data Excellence</h4>
+    <p>Excels with small, corrupted, or outlier-ridden datasets where traditional statistical models often fail.</p>
+  </div>
 
-**Non-Statistical Architecture**: Machine Gnostics treats each data point as the result of measurable, material causes rather than random events. This enables the library to:
+  <div class="capability-item">
+    <h4>Deterministic Uncertainty</h4>
+    <p>Treats uncertainty as measurable property based on information, not randomness - truth from data, not assumptions.</p>
+  </div>
 
-- Extract truth from data regardless of sample size or data quality
-- Understand causality, physical constraints, and engineering principles
-- Deliver exceptional resilience against outliers, noise, and corrupted data
-- Operate effectively with small, noisy datasets where traditional ML fails
+  <div class="capability-item">
+    <h4>Entropy Minimization</h4>
+    <p>Minimizes entropy rather than squared error for model convergence - a unique trait that aligns with thermodynamic principles and information theory.</p>
+  </div>
+</div>
 
-**Advanced Mathematical Framework**: The library implements sophisticated mathematical concepts including:
+<!-- ## Applications
 
-- Vector bi-algebra for data manipulation
-- Non-Euclidean geometries (Riemannian, Minkowskian) for uncertainty modeling
-- Quantification theory as foundational measurement science
-- The "gnostic cycle" of observation and feedback
+<div class="mg-applications">
+  <div class="application-domain">
+    <h4>Engineering & Manufacturing</h4>
+    <p>Thermal system optimization, quality control processes, and predictive maintenance where traditional statistical approaches struggle with limited data or high noise environments.</p>
+  </div>
 
-### Practical Applications & Industry Impact
+  <div class="application-domain">
+    <h4>Energy Systems</h4>
+    <p>Heat transfer analysis, power generation efficiency, and renewable energy optimization, leveraging deep integration with thermodynamic principles.</p>
+  </div>
 
-Dr. Parmar's Machine Gnostics has already demonstrated remarkable success across multiple domains:
+  <div class="application-domain">
+    <h4>Scientific Research</h4>
+    <p>Materials characterization, experimental data analysis, and hypothesis testing where physical laws provide stronger constraints than statistical assumptions.</p>
+  </div>
 
-- **Thermal Engineering**: Revolutionary modeling of heat transfer systems and energy storage solutions
-- **Process Optimization**: Advanced thermodynamic modeling for industrial applications  
-- **Environmental Science**: Atmospheric aerosol analysis revealing hidden patterns invisible to traditional methods
-- **Financial Analysis**: Robust economic modeling resistant to market volatility and outliers
+  <div class="application-domain">
+    <h4>Process Industries</h4>
+    <p>Chemical engineering applications, pharmaceutical development, and biotechnology where deterministic relationships govern system behavior.</p>
+  </div>
+</div> -->
 
-### Open Source Leadership & Community Building
+## Technical Excellence
 
-As an open-source initiative, Machine Gnostics represents Dr. Parmar's commitment to democratizing advanced AI:
+!!! note "Mathematical Foundation"
+    Machine Gnostics, based on Mathematical Gnostics, implements advanced mathematical concepts including vector bi-algebra, non-Euclidean geometries (Riemannian, Minkowskian), and quantification theory as foundational measurement science.
 
-- **GitHub Repository**: Freely accessible codebase with comprehensive documentation
-- **MLflow Integration**: Seamless integration with standard ML workflows
-- **Global Community**: Building international network of researchers and practitioners
-- **Educational Mission**: Making advanced mathematical concepts accessible to broader audiences
+<div class="mg-technical">
+  <div class="tech-feature">
+    <h4>Small Data Mastery</h4>
+    <p>Extracts truth from data regardless of sample size, delivering insights from minimal datasets without statistical assumptions.</p>
+  </div>
 
-### Future Vision: MAGNET Deep Learning Framework
+  <div class="tech-feature">
+    <h4>Physical Constraint Recognition</h4>
+    <p>Understands causality, physical constraints, and engineering principles embedded in data structures.</p>
+  </div>
 
-Dr. Parmar is pioneering the next frontier with MAGNET (Machine Gnostics Networks), an upcoming deep learning framework that will:
+  <div class="tech-feature">
+    <h4>Exceptional Robustness</h4>
+    <p>Delivers exceptional resilience against outliers, noise, and corrupted data through deterministic geometric modeling.</p>
+  </div>
 
-- Apply gnostic principles to neural network architectures
-- Create interpretable, robust deep learning models
-- Bridge the gap between traditional deep learning and physics-based AI
-- Establish new standards for reliable, nature-inspired artificial intelligence
+  <div class="tech-feature">
+    <h4>Universal Mathematical Bounds</h4>
+    <p>Natural [0, ∞] constraints from physical laws ensure realistic, interpretable results in all applications.</p>
+  </div>
+</div>
 
-### Scientific Recognition & Collaboration
+## MAGNET Deep Learning Framework
 
-Machine Gnostics has gained recognition from leading researchers who have solved previously "unsolvable" problems using the framework. The library serves as a bridge between Dr. Parmar's industrial AI leadership and his commitment to advancing fundamental AI research, creating practical tools that work in harmony with the physical world.
+!!! tip "Next Generation AI"
+    **MAGNET (Machine Gnostics Networks)** represents the next frontier - applying gnostic principles to neural network architectures for interpretable, robust deep learning models.
 
-### Testament to Innovation
+<div class="magnet-overview">
+  <!-- <div class="magnet-feature">
+    <h4>Interpretable Networks</h4>
+    <p>Neural architectures that maintain physical interpretability while delivering deep learning performance.</p>
+  </div> -->
 
-*"Let data speak for themselves"* - this core philosophy of Machine Gnostics reflects Dr. Parmar's vision of AI that respects the individuality of data points, leverages the laws of nature, and operates effectively in the finite, real world rather than requiring idealized statistical assumptions.
+  <div class="magnet-feature">
+    <h4>Physics-AI Integration</h4>
+    <p>Seamlessly bridges traditional deep learning with physics-based modeling principles.</p>
+  </div>
 
-Through Machine Gnostics, Dr. Parmar has created not just a software library, but a new paradigm for artificial intelligence—one that promises to unlock insights and solutions previously beyond the reach of conventional machine learning approaches.
+  <div class="magnet-feature">
+    <h4>Reliable Standards</h4>
+    <p>Establishes new benchmarks for trustworthy, nature-inspired artificial intelligence systems.</p>
+  </div>
+</div>
 
-<div align="center">
-    <a href="https://www.machinegnostics.info/" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_Machine_Gnostics-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Explore Machine Gnostics">
-    </a>
-    <a href="https://github.com/MachineGnostics/machinegnostics" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Machine Gnostics GitHub">
-    </a>
+## Open Source Leadership
+
+!!! heart "Community Driven"
+    Machine Gnostics is proudly open source, democratizing access to revolutionary AI methodologies and fostering global collaboration in advancing non-statistical machine learning.
+
+<div class="opensource-impact">
+  <div class="impact-area">
+    <h4>Global Accessibility</h4>
+    <p>Freely accessible codebase with comprehensive documentation, making advanced mathematical concepts available to researchers worldwide.</p>
+  </div>
+
+  <div class="impact-area">
+    <h4>Industrial Integration</h4>
+    <p>Seamless integration with standard ML workflows including MLflow, enabling easy adoption in existing data science pipelines.</p>
+  </div>
+
+  <div class="impact-area">
+    <h4>Educational Mission</h4>
+    <p>Building international network of researchers and practitioners while making advanced AI concepts accessible to broader audiences.</p>
+  </div>
+
+  <div class="impact-area">
+    <h4>AI Paradigm Shift</h4>
+    <p>Brings revolutionary change to AI by requiring a different lens to view data and data science problems, moving beyond traditional statistical thinking.</p>
+  </div>
+</div>
+
+## Scientific Impact
+
+> *"Let data speak for themselves"*
+
+This core philosophy reflects Dr. Parmar's vision of AI that respects data individuality, leverages nature's laws, and operates effectively in the real world without idealized statistical assumptions. Machine Gnostics has gained recognition from leading researchers who have solved previously "unsolvable" problems using the framework.
+
+
+<div class="mg-links">
+  <a href="https://www.machinegnostics.info/" class="mg-link-secondary">
+    Explore Machine Gnostics
+  </a>
+  <a href="https://github.com/MachineGnostics/machinegnostics" class="mg-link-secondary">
+    GitHub Repository
+  </a>
+  <a href="https://pypi.org/project/machinegnostics/" class="mg-link-secondary">
+    PyPI Package
+  </a>
 </div>

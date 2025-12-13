@@ -1,69 +1,127 @@
-# Get In Touch with Dr. Nirmal Parmar
+# Get In Touch
+> Collaboration & Consultation Opportunities
 
-Dr. Parmar welcomes collaboration opportunities with research institutions, universities, industry leaders, and organizations seeking to leverage the transformative power of AI and advanced thermal engineering solutions.
+!!! abstract "Connect with Dr. Nirmal Parmar"
+    Dr. Parmar welcomes meaningful collaborations with research institutions, industry leaders, and organizations seeking to leverage transformative AI and advanced thermal engineering solutions.
 
-## Areas of Collaboration
+## Collaboration Opportunities
 
-### Research Collaboration
-- **Academic Partnerships**: Joint research projects in thermal engineering, renewable energy systems, and non-statistical AI
-- **Publication Opportunities**: Co-authoring research papers and contributing to cutting-edge scientific publications
-- **Grant Applications**: Collaborative proposals for research funding and international projects
-- **PhD & Postdoc Supervision**: Mentoring next-generation researchers in AI and thermal engineering
-
-### Industry Consulting & Services
-- **AI Digital Transformation**: Enterprise-wide AI strategy development and implementation
-- **Thermal System Optimization**: Advanced modeling and optimization of energy systems and heat transfer processes
-- **Process Engineering**: Industrial process improvement using AI-driven analytics and thermal engineering principles
-- **Machine Gnostics Implementation**: Custom non-statistical AI solutions for complex engineering challenges
-
-### Speaking & Training
-- **Conference Presentations**: Keynote speeches and technical presentations at international conferences
-- **Workshop Facilitation**: Training sessions on Machine Gnostics, AI integration, and thermal engineering applications
-- **Technical Training**: Corporate training programs on advanced data analysis and AI implementation
+!!! info "Partnership Focus"
+    **Research Collaboration** • **Industry Consulting** • **Speaking & Training** • **Machine Gnostics Development**
 
 ## Contact Information
 
-!!! contact "Get in Touch"
-    
-    **📧 Email**
-    
-    [nirmalparmarphd@gmail.com](mailto:nirmalparmarphd@gmail.com)
-    
-    **🌐 Websites**
-    
-    - [www.nirmalparmar.in](https://www.nirmalparmar.in) - Personal Website & Portfolio
-    - [www.machinegnostics.info](https://www.machinegnostics.info) - Machine Gnostics Research Initiative
+!!! contact "Ready to Connect?"
+    Dr. Parmar welcomes meaningful conversations about collaboration opportunities, consulting projects, and Machine Gnostics applications.
+
+<div class="contact-primary">
+  <div class="primary-contact">
+    <div class="contact-header">
+      <div class="contact-icon-large">📧</div>
+      <div class="contact-details">
+        <h3>Get In Touch</h3>
+        <p class="email-link"><a href="mailto:nirmalparmarphd@gmail.com">nirmalparmarphd@gmail.com</a></p>
+        <p class="contact-subtitle">Primary contact for all collaboration inquiries</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="contact-secondary">
+  <div class="secondary-contact">
+    <div class="sec-icon">🌐</div>
+    <h4>Professional Portfolio</h4>
+    <p><a href="https://www.nirmalparmar.in" target="_blank">www.nirmalparmar.in</a></p>
+  </div>
+  
+  <div class="secondary-contact">
+    <div class="sec-icon">🔬</div>
+    <h4>Machine Gnostics Initiative</h4>
+    <p><a href="https://www.machinegnostics.info" target="_blank">www.machinegnostics.info</a></p>
+  </div>
+</div>
+
+## Communication Guidelines
+
+<div class="communication-compact">
+  <p><strong>Contact:</strong> Email with brief description of collaboration interests or project requirements</p>
+  <p><strong>Response:</strong> Typically within 48-72 hours for initial feedback</p>
+  <p><strong>Best Outcomes:</strong> Clear objectives, mutual benefits, and specific timelines preferred</p>
+</div>
+
+## Research Focus Areas
+
+<div class="research-interests">
+  <div class="interest-item">
+    <h4>AI Integration in Engineering</h4>
+    <p>Developing novel applications of artificial intelligence in thermal and process engineering systems.</p>
+  </div>
+
+  <div class="interest-item">
+    <h4>Machine Gnostics Advancement</h4>
+    <p>Pioneering non-statistical approaches (Mathematical Gnostics) to data analysis and machine learning.</p>
+  </div>
+
+  <div class="interest-item">
+    <h4>Renewable Energy Systems</h4>
+    <p>Advanced modeling and optimization of sustainable energy technologies and thermal processes.</p>
+  </div>
+
+  <div class="interest-item">
+    <h4>Digital Transformation</h4>
+    <p>Strategic implementation of AI technologies in manufacturing and business process optimization.</p>
+  </div>
+</div>
+
+## Why Collaborate?
+
+!!! success "Unique Value Proposition"
+    **Rare Expertise Combination** - Industrial AI leadership at global scale paired with pioneering research in revolutionary machine learning approaches.
+
+<div class="value-proposition">
+  <div class="value-card">
+    <h4>Cross-Industry Impact</h4>
+    <p>Experience spanning pharmaceutical manufacturing, thermal engineering, renewable energy, and process optimization.</p>
+  </div>
+
+  <div class="value-card">
+    <h4>Innovation Leadership</h4>
+    <p>Founder of revolutionary Machine Gnostics framework challenging traditional statistical AI approaches.</p>
+  </div>
+
+  <div class="value-card">
+    <h4>Global Perspective</h4>
+    <p>International experience across Europe, Asia, with industrial collaborations worldwide.</p>
+  </div>
+
+  <div class="value-card">
+    <h4>Results-Driven</h4>
+    <p>Proven track record of delivering measurable outcomes in both academic research and industrial applications.</p>
+  </div>
+</div>
 
 ---
-<!-- 
-## Why Collaborate with Dr. Parmar?
 
-**Unique Expertise**: Rare combination of industrial AI leadership at a global pharmaceutical company and pioneering research in non-statistical machine learning
+!!! tip "Let's Connect"
+    Whether exploring research collaborations, consulting projects, or Machine Gnostics applications, Dr. Parmar welcomes meaningful conversations with fellow researchers, industry professionals, and organizations committed to advancing AI and engineering frontiers.
 
-**Cross-Industry Impact**: Experience spanning pharmaceutical manufacturing, thermal engineering, renewable energy, and process optimization
+<!-- <div class="contact-guidelines">
+  <div class="guideline-item">
+    <h4>📝 Contact Guidelines</h4>
+    <p>Email with brief description of collaboration interests or project requirements</p>
+  </div>
 
-**Innovation Leadership**: Founder of revolutionary Machine Gnostics framework that challenges traditional statistical AI approaches
+  <div class="guideline-item">
+    <h4>⏱️ Response Time</h4>
+    <p>Typically responds to inquiries within 48-72 hours</p>
+  </div>
 
-**Global Perspective**: International experience across Europe, Asia, and industrial collaborations worldwide
-
-**Results-Driven**: Track record of delivering measurable outcomes in both academic research and industrial applications -->
-
-## Research Interests for Collaboration
-
-- **AI Integration in Engineering**: Developing novel applications of artificial intelligence in thermal and process engineering
-- **Renewable Energy Systems**: Advanced modeling and optimization of sustainable energy technologies
-- **Thermochemical Properties**: Characterization and prediction of material properties for industrial applications
-- **Digital Transformation**: Strategic implementation of AI technologies in manufacturing and business processes
-- **Machine Gnostics**: Advancing non-statistical approaches (Mathematical Gnostics) to data analysis and machine learning
-
-## Let's Connect
-
-Whether you're interested in exploring research collaborations, discussing potential consulting projects, or learning more about Machine Gnostics applications, Dr. Parmar is always open to meaningful conversations with fellow researchers, industry professionals, and organizations committed to advancing the frontiers of AI and engineering.
-
-**Preferred Contact Method**: Email with a brief description of your collaboration interests or project requirements.
-
-**Response Time**: Dr. Parmar typically responds to inquiries within 48-72 hours.
+  <div class="guideline-item">
+    <h4>🎯 Best Outcomes</h4>
+    <p>Clear project scope and mutual benefit objectives preferred</p>
+  </div>
+</div> -->
 
 ---
 
-> *Dr. Nirmal Parmar - Bridging the gap between cutting-edge research and real-world impact through innovative AI solutions and advanced thermal engineering.*
+> *"Bridging cutting-edge research with real-world impact through innovative AI solutions and Machine Gnostics."*

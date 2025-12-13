@@ -1,100 +1,178 @@
 # About Dr. Nirmal Parmar
 
-## Professional Overview
+!!! info "Professional Summary"
 
-Dr. Nirmal Parmar is a global AI leader and Director at Novartis, specializing in AI-driven digital transformation and helping industries harness the power of artificial intelligence. With over a decade of extensive experience in data science, data analytics, AI/ML, engineering design, and research, he has pioneered breakthrough solutions that transform industrial processes and redefine how organizations approach digital innovation.
+    Global AI Director at Novartis with 10+ years of experience in AI-driven digital transformation. Founder of Machine Gnostics, the world's first non-statistical machine learning framework. Leading international teams in implementing breakthrough AI solutions across manufacturing and engineering domains.
 
-As the visionary founder of **Machine Gnostics**, Dr. Parmar has developed the world's first non-statistical machine learning framework—a revolutionary research initiative that fundamentally challenges traditional AI paradigms and explores new frontiers in artificial intelligence beyond conventional statistical assumptions.
+## Current Leadership
 
-
-## Academic Excellence
-
-### Doctoral Achievement - Joint International PhD
-**Chemical Engineering & Advanced Data Analytics**
-- **University of Chemistry and Technology, Prague** (Mother Institution)
-- **University of Tours, France**
-- **Institute of Chemical Processes Fundamentals, Czech Academy of Sciences**
-
-<!-- His pioneering doctoral research on **IoNanofluids for efficient energy storage** established the foundation for integrating Mathematical Gnostics with Machine Learning frameworks. -->
-
-### Master's Degrees
-- **Applied Mechanics** - Czech Technical University, Prague
-- **Thermal Engineering** - Gujarat Technological University, India
-
-### Bachelor's Degree
-- **Mechanical Engineering** - Veer Narmad South Gujarat University, India
-
-## Current Leadership Role
-
-### Global AI Director at Novartis
-Leading comprehensive AI transformation initiatives across global manufacturing operations:
-
-- **Strategic AI Leadership** – Developing enterprise-wide AI adoption strategies and digital transformation roadmaps
-- **End-to-End Project Management** – Managing complete AI solution lifecycle from concept to global deployment
-- **Cross-Functional Team Leadership** – Leading diverse international teams through complex technical challenges
-- **Innovation Management** – Implementing cutting-edge AI solutions that optimize manufacturing processes and operational efficiency
-
-## Technical Expertise & Leadership
-
-### AI Solutions & Advanced Analytics
-- **Generative AI (GenAI)** – Enterprise-scale LLM implementations and business transformation
-- **Custom Neural Networks** – Industry-specific AI architectures and solutions
-- **MLOps, LLMOps & AIOps** – Scalable AI deployment and management in enterprise environments
-- **Machine Learning & Deep Learning** – Advanced predictive modeling and pattern recognition
-- **Time Series Forecasting** – Predictive analytics for business intelligence
-
-### Leadership & Strategy
-- **AI Strategy Development** – Creating comprehensive AI transformation roadmaps for global organizations
-- **Digital Transformation Leadership** – Driving enterprise-wide digital innovation initiatives
-- **Cross-Cultural Team Management** – Leading international teams across diverse time zones and cultures
-- **Stakeholder Engagement** – Managing C-level relationships and strategic partnerships
-- **Innovation Management** – Fostering cultures of innovation and technical excellence
-
-### Thermal Engineering Innovation
-- **Energy Storage Systems** – Advanced research in nanofluids and thermal energy solutions
-- **Process Optimization** – Thermodynamic modeling for industrial applications
-- **Heat Transfer Analysis** – Sophisticated modeling for manufacturing process improvement
-- **Sustainable Engineering** – Eco-friendly technology development and implementation
-
-### Mathematical Gnostics Pioneer
-- **Non-Statistical AI** – Revolutionary frameworks beyond traditional statistical methods
-- **Uncertainty Management** – Advanced methods for handling complex system uncertainties
-- **Open Source Leadership** – Building global communities around breakthrough AI technologies
-- **Research-Industry Bridge** – Translating academic research into practical industrial applications
-
-<!-- ## Industry Impact
-
-### Engineering & Manufacturing Excellence
-- Thermal & Process Engineering, Pharmaceutical Manufacturing, Industrial Automation
-
-### Business & Digital Innovation
-- Enterprise AI Strategy, Supply Chain Intelligence, Operations Research
-
-### Emerging Technologies & Research
-- Healthcare & Biotechnology, Automotive & Aerospace, Materials Science
-
-### Cross-Industry Applications
-- Data Science & Analytics, IoT & Smart Systems, Consulting & Advisory -->
-
-## Machine Gnostics: Revolutionary AI Framework
-
-**"Redesigning the mathematical core of AI"**
-
-As founder of Machine Gnostics, Dr. Parmar has created the first comprehensive framework for non-statistical machine learning. This groundbreaking initiative challenges traditional probabilistic models by encoding the fundamental laws of nature—geometry, physics, entropy—into algorithms that extract truth from data, regardless of sample size or data quality.
-
-Machine Gnostics represents a paradigm shift from conventional statistical approaches, offering solutions that understand causality, physical constraints, and engineering principles without relying on traditional statistical assumptions.
-
-<div align="center">
-    <a href="https://www.machinegnostics.info/" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_Machine_Gnostics-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Explore Machine Gnostics">
-    </a>
+<div class="leadership-card">
+    <div class="role-header">
+        <span class="role-icon">🏢</span>
+        <div class="role-details">
+            <h3>AI Director</h3>
+            <p class="company">Novartis</p>
+        </div>
+    </div>
+    <div class="role-content">
+        <ul class="achievements">
+            <li>Strategic AI Leadership - Developing enterprise-wide AI adoption strategies</li>
+            <li>Cross-Functional Team Management - Leading diverse international teams</li>
+            <li>Innovation Management - Implementing cutting-edge AI manufacturing solutions</li>
+            <li>Digital Transformation - End-to-end project lifecycle management</li>
+        </ul>
+    </div>
 </div>
 
-## Global Recognition & Collaboration
+## Education Journey
 
-Dr. Parmar collaborates with leading research institutions, universities, and industry leaders worldwide, focusing on AI integration and digital transformation in engineering applications and business processes. His work bridges cutting-edge research with practical industrial implementation, delivering measurable value across diverse industry verticals.
+<div class="education-grid">
+  <div class="edu-card">
+    <div class="edu-header">
+      <span class="edu-icon">🎓</span>
+      <h4>Joint International PhD</h4>
+    </div>
+    <div class="edu-content">
+      <p><strong>Chemical Engineering & Advanced Data Analytics</strong></p>
+      <div class="institutions">
+        <div class="institution">🇨🇿 University of Chemistry & Technology, Prague</div>
+        <div class="institution">🇫🇷 University of Tours, France</div>
+        <div class="institution">🇨🇿 Institute of Chemical Processes and Fundamentals, Czech Academy of Sciences, Prague</div>
+      </div>
+    </div>
+  </div>
 
-## Vision & Leadership Philosophy
+  <div class="edu-card">
+    <div class="edu-header">
+      <span class="edu-icon">📚</span>
+      <h4>Master's & Bachelor's</h4>
+    </div>
+    <div class="edu-content">
+      <div class="degree">
+        <strong>Master's - Applied Mechanics</strong>
+        <span>🇨🇿 Czech Technical University, Prague</span>
+      </div>
+      <div class="degree">
+        <strong>Research Intern</strong>
+        <span>🇩🇪 University of Wismar, Germany</span>
+      </div>
+      <div class="degree">
+        <strong>Master's - Thermal Engineering</strong>
+        <span>🇮🇳 Gujarat Technological University, India</span>
+      </div>
+      <div class="degree">
+        <strong>Bachelor's - Mechanical Engineering</strong>
+        <span>🇮🇳 Veer Narmad South Gujarat University, India</span>
+      </div>
+    </div>
+  </div>
+</div>
 
-Dr. Parmar believes in transforming organizations through intelligent AI adoption, combining rigorous scientific methodology with innovative engineering solutions. He leads by example, fostering technical excellence, driving innovation, and building high-performing teams that deliver breakthrough solutions to the world's most complex industrial challenges.
+## Core Expertise
+
+<div class="expertise-grid">
+  <div class="expertise-card">
+    <div class="expertise-header">
+      <span class="expertise-icon">🤖</span>
+      <h4>AI Solutions</h4>
+    </div>
+    <div class="expertise-content">
+      <ul>
+        <li>Generative AI (GenAI) & LLM Implementation</li>
+        <li>Custom Neural Networks & Deep Learning</li>
+        <li>MLOps, LLMOps & AIOps</li>
+        <li>Time Series Forecasting</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="expertise-card">
+    <div class="expertise-header">
+      <span class="expertise-icon">👨‍💼</span>
+      <h4>Leadership</h4>
+    </div>
+    <div class="expertise-content">
+      <ul>
+        <li>AI Strategy Development</li>
+        <li>Digital Transformation Leadership</li>
+        <li>Cross-Cultural Team Management</li>
+        <li>Innovation Management</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="expertise-card">
+    <div class="expertise-header">
+      <span class="expertise-icon">🌡️</span>
+      <h4>Thermal Engineering</h4>
+    </div>
+    <div class="expertise-content">
+      <ul>
+        <li>Energy Storage Systems</li>
+        <li>Renewable Engineering</li>
+        <li>Heat Transfer Applications</li>
+        <li>Thermodynamics</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="expertise-card">
+    <div class="expertise-header">
+      <span class="expertise-icon">🥭</span>
+      <h4>Mathematical Gnostics</h4>
+    </div>
+    <div class="expertise-content">
+      <ul>
+        <li>Non-Statistical AI Frameworks</li>
+        <li>Uncertainty Analysis</li>
+        <li>Open Source Leadership</li>
+        <li>Research-Industry Bridge</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+## Machine Gnostics Innovation
+
+!!! innovation "Revolutionary AI Framework"
+
+    **"Redesigning the mathematical core of AI"**
+    
+    Machine Gnostics represents a paradigm shift from conventional statistical approaches. This groundbreaking framework encodes fundamental laws of nature—geometry, physics, entropy—into algorithms that extract truth from data, regardless of sample size or data quality.
+
+<div class="mg-features">
+  <div class="feature-item">
+    <span class="feature-icon">🔬</span>
+    <div class="feature-text">
+      <strong>Non-Statistical Foundation</strong>
+      <p>First comprehensive framework beyond traditional probabilistic models</p>
+    </div>
+  </div>
+  
+  <div class="feature-item">
+    <span class="feature-icon">🌐</span>
+    <div class="feature-text">
+      <strong>Physical Law Integration</strong>
+      <p>Algorithms understand causality and engineering principles</p>
+    </div>
+  </div>
+  
+  <div class="feature-item">
+    <span class="feature-icon">💡</span>
+    <div class="feature-text">
+      <strong>Universal Applicability</strong>
+      <p>Solutions work regardless of data quality or sample size</p>
+    </div>
+  </div>
+</div>
+
+<div class="action-buttons">
+  <a href="https://www.machinegnostics.info/" target="_blank" class="btn-secondary">Explore Machine Gnostics</a>
+</div>
+
+## Global Impact & Vision
+
+!!! quote "Leadership Philosophy"
+
+    *"Transforming organizations through intelligent AI adoption, combining rigorous scientific methodology with innovative engineering solutions. Leading by example to foster technical excellence and deliver breakthrough solutions to complex industrial challenges."*
 
