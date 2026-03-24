@@ -1,185 +1,183 @@
+---
+hide:
+  - toc
+  - navigation.footer
+title: Machine Gnostics
+description: Dr. Nirmal Parmar — Founder of Machine Gnostics, the world's first non-statistical machine learning library rooted in the laws of nature.
+---
+<div class="mg-hero" markdown>
+
+<div class="mg-hero-text" markdown>
+
+`<span class="mg-eyebrow">`Founded 2025 · Open source · Python
+
 # Machine Gnostics
-*AI Rooted in the Laws of Nature*
 
-!!! abstract "Revolutionary Framework"
-    **Machine Gnostics** represents the world's first comprehensive non-statistical machine learning framework, fundamentally challenging traditional AI by encoding the laws of nature directly into algorithms.
+<p class="mg-tagline">The world's first machine learning library built on non-statistical principles — encoding the laws of nature directly into algorithms.</p>
 
-<figure markdown="span">
-    <img src="../image/mango-what-is-mg-1.png" alt="Machine Gnostics Framework" style="width: 80%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-    <figcaption>Machine Gnostics: Scientific Foundation & AI Application</figcaption>
-</figure>
+[Visit machinegnostics.com :material-arrow-right:](https://www.machinegnostics.com){ .md-button .md-button--primary target="_blank" }
+[GitHub :material-github:](https://github.com/MachineGnostics/machinegnostics){ .md-button target="_blank" }
 
-## Foundation Principles
-
-<div class="mg-principles">
-  <div class="principle-card">
-    <div class="principle-header">
-      <h3>Scientific Foundation</h3>
-    </div>
-    <div class="principle-content">
-      <ul>
-        <li><strong>Relativistic Physics</strong> - Energy-momentum law for data modeling</li>
-        <li><strong>Riemannian Geometry</strong> - Curved space for uncertainty quantification</li>
-        <li><strong>Thermodynamics</strong> - Information theory and entropy principles</li>
-        <li><strong>Universal Bounds</strong> - Mathematical constraints from nature</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="principle-card">
-    <div class="principle-header">
-      <h3>Non-Statistical Architecture</h3>
-    </div>
-    <div class="principle-content">
-      <ul>
-        <li><strong>Deterministic Principles</strong> - Data as measurable, material causes</li>
-        <li><strong>Small Data Excellence</strong> - Works regardless of dataset size</li>
-        <li><strong>Noise Resilience</strong> - Exceptional outlier and corruption resistance</li>
-        <li><strong>Truth Extraction</strong> - Data speaks for themselves</li>
-      </ul>
-    </div>
-  </div>
 </div>
 
-## Core Capabilities
-
-<div class="mg-capabilities">
-  <div class="capability-item">
-    <h4>Robust Data Aggregation</h4>
-    <p>Models data uncertainty like relativistic particles, enabling robust analysis that is resilient to outliers and noise.</p>
-  </div>
-
-  <div class="capability-item">
-    <h4>Real-World Data Excellence</h4>
-    <p>Excels with small, corrupted, or outlier-ridden datasets where traditional statistical models often fail.</p>
-  </div>
-
-  <div class="capability-item">
-    <h4>Deterministic Uncertainty</h4>
-    <p>Treats uncertainty as measurable property based on information, not randomness - truth from data, not assumptions.</p>
-  </div>
-
-  <div class="capability-item">
-    <h4>Entropy Minimization</h4>
-    <p>Minimizes entropy rather than squared error for model convergence - a unique trait that aligns with thermodynamic principles and information theory.</p>
-  </div>
+<div class="mg-hero-logo" markdown>
+![Machine Gnostics](https://machinegnostics.com/images/logo.png){ .mg-logo }
 </div>
 
-<!-- ## Applications
-
-<div class="mg-applications">
-  <div class="application-domain">
-    <h4>Engineering & Manufacturing</h4>
-    <p>Thermal system optimization, quality control processes, and predictive maintenance where traditional statistical approaches struggle with limited data or high noise environments.</p>
-  </div>
-
-  <div class="application-domain">
-    <h4>Energy Systems</h4>
-    <p>Heat transfer analysis, power generation efficiency, and renewable energy optimization, leveraging deep integration with thermodynamic principles.</p>
-  </div>
-
-  <div class="application-domain">
-    <h4>Scientific Research</h4>
-    <p>Materials characterization, experimental data analysis, and hypothesis testing where physical laws provide stronger constraints than statistical assumptions.</p>
-  </div>
-
-  <div class="application-domain">
-    <h4>Process Industries</h4>
-    <p>Chemical engineering applications, pharmaceutical development, and biotechnology where deterministic relationships govern system behavior.</p>
-  </div>
-</div> -->
-
-## Technical Excellence
-
-!!! note "Mathematical Foundation"
-    Machine Gnostics, based on Mathematical Gnostics, implements advanced mathematical concepts including vector bi-algebra, non-Euclidean geometries (Riemannian, Minkowskian), and quantification theory as foundational measurement science.
-
-<div class="mg-technical">
-  <div class="tech-feature">
-    <h4>Small Data Mastery</h4>
-    <p>Extracts truth from data regardless of sample size, delivering insights from minimal datasets without statistical assumptions.</p>
-  </div>
-
-  <div class="tech-feature">
-    <h4>Physical Constraint Recognition</h4>
-    <p>Understands causality, physical constraints, and engineering principles embedded in data structures.</p>
-  </div>
-
-  <div class="tech-feature">
-    <h4>Exceptional Robustness</h4>
-    <p>Delivers exceptional resilience against outliers, noise, and corrupted data through deterministic geometric modeling.</p>
-  </div>
-
-  <div class="tech-feature">
-    <h4>Universal Mathematical Bounds</h4>
-    <p>Natural [0, ∞] constraints from physical laws ensure realistic, interpretable results in all applications.</p>
-  </div>
 </div>
 
-## MAGNET Deep Learning Framework
+---
 
-!!! tip "Next Generation AI"
-    **MAGNET (Machine Gnostics Networks)** represents the next frontier - applying gnostic principles to neural network architectures for interpretable, robust deep learning models.
+## The problem I set out to solve
 
-<div class="magnet-overview">
-  <!-- <div class="magnet-feature">
-    <h4>Interpretable Networks</h4>
-    <p>Neural architectures that maintain physical interpretability while delivering deep learning performance.</p>
-  </div> -->
+Working at the intersection of thermal engineering and AI, I kept running into the same wall. Real industrial and reserach data is small, noisy, and messy. Sensors fail. Experiments are expensive. You rarely get thousands of samples. Yet every mainstream AI framework — from scikit-learn to PyTorch — is built on statistical assumptions that silently break down when data is scarce or corrupted.
 
-  <div class="magnet-feature">
-    <h4>Physics-AI Integration</h4>
-    <p>Seamlessly bridges traditional deep learning with physics-based modeling principles.</p>
-  </div>
+The deeper issue was not just sample size. It was that statistical AI has no concept of physical reality. It treats data as abstract numbers drawn from probability distributions, with no grounding in geometry, thermodynamics, or the measurable laws that govern the real world.
 
-  <div class="magnet-feature">
-    <h4>Reliable Standards</h4>
-    <p>Establishes new benchmarks for trustworthy, nature-inspired artificial intelligence systems.</p>
-  </div>
+> *"Why are we forcing physical data into statistical models that were never designed for it?"*
+
+That question, which I first encountered during my PhD research at the Czech Academy of Sciences in Prague, became the seed of Machine Gnostics.
+
+---
+
+## Standing on the shoulders of a pioneer
+
+<div class="mg-origin-card" markdown>
+
+Machine Gnostics did not emerge from nothing. It is built on the life's work of **Dr. Pavel Kovanic** (1942–2023), a researcher at the Institute of Information Theory and Automation of the Czechoslovak Academy of Sciences, who first published **Mathematical Gnostics** in 1984.
+
+Kovanic's radical idea: uncertainty in data is not random — it has measurable, material causes. Instead of statistical distributions, he encoded **Riemannian geometry, thermodynamic entropy, and relativistic mechanics** into a framework that lets data speak for themselves.
+
+His theory was met with scepticism for decades. In 2022, during my PhD at UCT Prague under Dr. Magdalena Bendová and Dr. Zdeněk Wagner — both long-time collaborators of Kovanic — I identified the bridge between Mathematical Gnostics and modern machine learning. In 2023, the year Kovanic published his final book and passed away, Machine Gnostics was born.
+
+It is my honour to carry his work forward.
+
 </div>
 
-## Open Source Leadership
+---
 
-!!! heart "Community Driven"
-    Machine Gnostics is proudly open source, democratizing access to revolutionary AI methodologies and fostering global collaboration in advancing non-statistical machine learning.
+## What Machine Gnostics actually does
 
-<div class="opensource-impact">
-  <div class="impact-area">
-    <h4>Global Accessibility</h4>
-    <p>Freely accessible codebase with comprehensive documentation, making advanced mathematical concepts available to researchers worldwide.</p>
-  </div>
+Unlike statistical AI, Machine Gnostics encodes the laws of nature — geometry, physics, entropy — directly into its algorithms. This produces three properties that statistical frameworks cannot replicate:
 
-  <div class="impact-area">
-    <h4>Industrial Integration</h4>
-    <p>Seamless integration with standard ML workflows including MLflow, enabling easy adoption in existing data science pipelines.</p>
-  </div>
+<div class="mg-pillars" markdown>
 
-  <div class="impact-area">
-    <h4>Educational Mission</h4>
-    <p>Building international network of researchers and practitioners while making advanced AI concepts accessible to broader audiences.</p>
-  </div>
+<div class="mg-pillar" markdown>
 
-  <div class="impact-area">
-    <h4>AI Paradigm Shift</h4>
-    <p>Brings revolutionary change to AI by requiring a different lens to view data and data science problems, moving beyond traditional statistical thinking.</p>
-  </div>
+:material-molecule: &nbsp; **Works on small data**
+
+No minimum sample size. No assumption of normal distributions. Gnostic algorithms extract reliable signal even from 10–20 data points — the kind of datasets that are routine in engineering, medicine, and industrial process control.
+
 </div>
 
-## Scientific Impact
+<div class="mg-pillar" markdown>
 
-> *"Let data speak for themselves"*
+:material-magnify-scan: &nbsp; **Fully explainable**
 
-This core philosophy reflects Dr. Parmar's vision of AI that respects data individuality, leverages nature's laws, and operates effectively in the real world without idealized statistical assumptions. Machine Gnostics has gained recognition from leading researchers who have solved previously "unsolvable" problems using the framework.
+Every result traces back to mathematical first principles. No black boxes. Every parameter is interpretable in terms of geometry and thermodynamics — making Machine Gnostics uniquely suited for regulated industries and scientific research.
 
+</div>
 
-<div class="mg-links">
-  <a href="https://www.machinegnostics.info/" class="mg-link-secondary">
-    Explore Machine Gnostics
-  </a>
-  <a href="https://github.com/MachineGnostics/machinegnostics" class="mg-link-secondary">
-    GitHub Repository
-  </a>
-  <a href="https://pypi.org/project/machinegnostics/" class="mg-link-secondary">
-    PyPI Package
-  </a>
+<div class="mg-pillar" markdown>
+
+:material-shield-check-outline: &nbsp; **Noise and outlier robust**
+
+Because the framework treats each data point as a material event — not a statistical sample — it naturally distinguishes signal from noise without discarding outliers or requiring data cleaning assumptions.
+
+</div>
+
+</div>
+
+---
+
+## What's inside the library
+
+<div class="mg-modules" markdown>
+
+<div class="mg-module-card" markdown>
+
+**Gnostic data analysis**
+
+Exploratory analysis, distribution functions (EGDF, ELDF, QGDF, QLDF), clustering, interval analysis, homogeneity tests — all without statistical assumptions.
+
+[Explore →](https://docs.machinegnostics.com/latest/da/da_models/){ target="_blank" }
+
+</div>
+
+<div class="mg-module-card" markdown>
+
+**Gnostic machine learning**
+
+Classification, regression, clustering, and time series forecasting models grounded in gnostic certainty. Fully traceable and explainable.
+
+[Explore →](https://docs.machinegnostics.com/latest/models/ml_models/){ target="_blank" }
+
+</div>
+
+<div class="mg-module-card" markdown>
+
+**MAGNET — deep gnostic learning**
+
+Next-generation neural networks built on mathematical gnostic principles. Noise-immune. Thermodynamically grounded. Easy Pythonic API.
+
+[Explore →](https://docs.machinegnostics.com/latest/magnet/magnet/){ target="_blank" }
+
+</div>
+
+</div>
+
+---
+
+## Get started in one line
+
+```python
+pip install machinegnostics
+```
+
+Full documentation, tutorials, and Jupyter notebook examples are available at [docs.machinegnostics.com](https://docs.machinegnostics.com){ target="_blank" }.
+
+---
+
+## Collaborate with me
+
+I actively welcome research collaborations that apply Machine Gnostics to new domains — particularly in engineering, medicine, environmental science, and industrial AI. If you are working on a problem where conventional statistical AI is failing, this framework may be exactly what you need.
+
+<div class="mg-collab-grid" markdown>
+
+<div class="mg-collab-card" markdown>
+:material-flask-outline:   **Research partnerships**
+Joint research, co-authorship, and applying gnostic methods to novel scientific problems.
+</div>
+
+<div class="mg-collab-card" markdown>
+:material-code-braces:   **Open source contributions**
+Contribute new algorithms, modules, documentation, or domain-specific implementations.
+</div>
+
+<div class="mg-collab-card" markdown>
+:material-school-outline:   **PhD & postdoc supervision**
+Supervising graduate researchers who want to work at the intersection of Mathematical Gnostics and AI.
+</div>
+
+<div class="mg-collab-card" markdown>
+:material-domain:   **Industry application**
+Applying Machine Gnostics to real industrial data challenges where small-sample or noisy data is the norm.
+</div>
+
+</div>
+
+[Get in touch :material-email-outline:](contact.md){ .md-button .md-button--primary }
+
+---
+
+## Acknowledgements
+
+<div class="mg-acknowledgement" markdown>
+
+Machine Gnostics stands on the foundation laid by **Dr. Pavel Kovanic** (1942–2023), whose vision of a nature-grounded, non-statistical theory of data uncertainty inspired this entire project. His legacy lives on in every algorithm.
+
+Deep thanks also to **Dr. Magdalena Bendová** (PhD supervisor) and **Dr. Zdeněk Wagner** (expert supervisor) at the Czech Academy of Sciences, Prague — whose mentorship, encouragement, and decades of work with Mathematical Gnostics made this journey possible.
+
+*Full history: [docs.machinegnostics.com/latest/stories/history](https://docs.machinegnostics.com/latest/stories/history){ target="_blank" }*
+
 </div>

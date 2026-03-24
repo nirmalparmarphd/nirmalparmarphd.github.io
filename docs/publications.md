@@ -4,6 +4,8 @@
 
 <small>
 
+**Parmar, K., Parwani, A.K., Parmar, N. & Tripathi, S.** Identification of heat-transfer regime in closed-loop pulsating heat pipes via critical thermal analysis. *J Therm Anal Calorim* (2026). [ResearchGate](https://www.researchgate.net/publication/401022017_Identification_of_heat-transfer_regime_in_closed-loop_pulsating_heat_pipes_via_critical_thermal_analysis)
+
 **Parmar, K., Parmar, N., Parwani, A.K. et al.** Experimental studies and machine learning approaches for thermal parameters prediction and data analysis in closed-loop pulsating heat pipes with Al2O3-DI water nanofluid. *J Therm Anal Calorim* (2024). https://doi.org/10.1007/s10973-024-13859-1
 
 **Parmar, N., Bendová, M. & Wagner, Z.** Heat capacity measurements by a Setaram μDSC3 evo microcalorimeter: estimation of deviation in the measurement, advanced data analysis by mathematical gnostics, and prediction by the artificial neural network. *J Therm Anal Calorim* (2024). https://doi.org/10.1007/s10973-024-13505-w
@@ -27,6 +29,12 @@
 ## Conference Proceedings
 
 <small>
+
+**Bharti, O.S., Parmar, K. & Parmar, N.** Numerical Investigation of Fluid-Structure Interaction in a Solar Water Heating System Under Varying Collector Tilt Angles. *Conference Paper*, Dec 2025. [ResearchGate](https://www.researchgate.net/publication/398938997_Numerical_Investigation_of_Fluid-Structure_Interaction_in_a_Solar_Water_Heating_System_Under_Varying_Collector_Tilt_Angles)
+
+**Parmar, K., Parwani, A.K. & Parmar, N.** Novel approach to identify the effective heating region of closed-loop pulsating heat pipe using four-step method. *Conference Paper*, Jun 2025. [ResearchGate](https://www.researchgate.net/publication/393514319_Novel_approach_to_identify_the_effective_heating_region_of_closed-loop_pulsating_heat_pipe_using_four-step_method)
+
+**Parmar, K., Bharti, O.S. & Parmar, N.** A Review of Experimental and Numerical Studies on Solar Water Heating Systems. *Conference Paper*, May 2025. [ResearchGate](https://www.researchgate.net/publication/398937903_A_Review_of_Experimental_and_Numerical_Studies_on_Solar_Water_Heating_Systems)
 
 **F. M. Hafez, K. Parmar and N. Parmar.** "Prediction of Thermal Parameters for Flat Plate Solar Water Heater by Machine Learning - A Review," *2024 Parul International Conference on Engineering and Technology (PICET)*, Vadodara, India, 2024, pp. 1-6, doi: 10.1109/PICET60765.2024.10716046.
 
@@ -59,6 +67,26 @@
 **Deepak Jani, Bipin Vyas, and Nirmal Parmar.** Enhancement of heat transfer in the radiator by using nanofluids and varying mass flow rate. *LAP Lambert Academic Publishing*, 2017.
 
 **Bipin Vyas, Nirmal Parmar, and Deepak Jani.** Thermal contact resistance across different metallic composite pairs. *LAP Lambert Academic Publishing*, 2017.
+
+</small>
+
+## Keynote Lectures & Invited Talks
+
+<small>
+
+**Nirmal Parmar.** Machine Gnostics: A Step Towards Non-Statistical Machine Learning. *[OSSConf 2026](https://ossconf.fri.uniza.sk/vyziadane-prednasky/){ target="_blank" }*, University of Žilina, Slovakia, July 2026. — Invited.
+
+**Nirmal Parmar.** AI & ML for Research and Engineering Applications. *GIMCA 2026*, India, April 2026. — Keynote.
+
+**Nirmal Parmar.** Beyond the Bell Curve: An Introduction to Mathematical & Machine Gnostics. *University of Chemistry and Technology*, Prague, March 2026. — Invited.
+
+**Nirmal Parmar.** Data Science and Advanced Data Analytics for Small Data. *International Conference on Futuristic Advancements in Materials, Manufacturing, and Thermal Sciences (ICFAMMT 2024)*, IITRAM & ISRO, 2024. — Keynote.
+
+**Nirmal Parmar.** Machine Learning Integration to Mechanical Engineering. *Guest Speaker*, Parul University, India, February 2024.
+
+**Nirmal Parmar.** Navigating Data Science: Linking Research & Industry in Analytics & Applied ML. *Guest Speaker*, Parul University, India, January 2024.
+
+**Nirmal Parmar.** Data Science Talk Series. *Guest Speaker*, Parul University, India, September 2023.
 
 </small>
 

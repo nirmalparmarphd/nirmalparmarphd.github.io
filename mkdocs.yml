@@ -13,45 +13,28 @@ theme:
     logo: material/alpha-n-box
     favicon: material/alpha-n-box
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.footer
     - navigation.instant
+    - navigation.tabs
     - navigation.top
-    - navigation.expand
-    - navigation.sections
-    - navigation.indexes
-    - navigation.tracking
-    - content.code.annotate
-    - content.code.copy
-    - content.code.highlight
-    - content.code.tabs
-    - content.code.include
-    - content.code.extra
-    - content.search.highlight
-    - content.search.share
-    - content.search.suggest
-    - content.search.autocomplete
-    - content.search.highlight
   palette:
-    - scheme: slate
-      primary: indigo
-      accent: light blue
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
     - scheme: default
-      primary: blue
+      primary: indigo
       accent: indigo
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-7
         name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
-  plugins:
-    - privacy
-    - search
-    - git-revision-date-localized
-    - awesome-pages
+plugins:
+  - privacy
+  - search
+  - git-revision-date-localized
+  - awesome-pages
 
 extra:
   analytics:
@@ -89,6 +72,8 @@ extra:
       make our documentation better.
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -96,6 +81,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Home: index.md
