@@ -9,7 +9,7 @@ description: Dr. Nirmal Parmar — Founder of Machine Gnostics, the world's firs
 
 <div class="mg-hero-text" markdown>
 
-`<span class="mg-eyebrow">`Founded 2025 · Open source · Python
+<span class="mg-eyebrow">Founded 2025 · Open source · Python
 
 # Machine Gnostics
 
@@ -64,7 +64,7 @@ Unlike statistical AI, Machine Gnostics encodes the laws of nature — geometry,
 
 <div class="mg-pillar" markdown>
 
-:material-molecule: &nbsp; **Works on small data**
+:material-molecule: &nbsp; **Works on Small Data**
 
 No minimum sample size. No assumption of normal distributions. Gnostic algorithms extract reliable signal even from 10–20 data points — the kind of datasets that are routine in engineering, medicine, and industrial process control.
 
@@ -72,7 +72,7 @@ No minimum sample size. No assumption of normal distributions. Gnostic algorithm
 
 <div class="mg-pillar" markdown>
 
-:material-magnify-scan: &nbsp; **Fully explainable**
+:material-magnify-scan: &nbsp; **Fully Explainable**
 
 Every result traces back to mathematical first principles. No black boxes. Every parameter is interpretable in terms of geometry and thermodynamics — making Machine Gnostics uniquely suited for regulated industries and scientific research.
 
@@ -80,7 +80,7 @@ Every result traces back to mathematical first principles. No black boxes. Every
 
 <div class="mg-pillar" markdown>
 
-:material-shield-check-outline: &nbsp; **Noise and outlier robust**
+:material-shield-check-outline: &nbsp; **Noise and Outlier Robust**
 
 Because the framework treats each data point as a material event — not a statistical sample — it naturally distinguishes signal from noise without discarding outliers or requiring data cleaning assumptions.
 
@@ -96,7 +96,7 @@ Because the framework treats each data point as a material event — not a stati
 
 <div class="mg-module-card" markdown>
 
-**Gnostic data analysis**
+**Gnostic - Data Analysis**
 
 Exploratory analysis, distribution functions (EGDF, ELDF, QGDF, QLDF), clustering, interval analysis, homogeneity tests — all without statistical assumptions.
 
@@ -106,7 +106,7 @@ Exploratory analysis, distribution functions (EGDF, ELDF, QGDF, QLDF), clusterin
 
 <div class="mg-module-card" markdown>
 
-**Gnostic machine learning**
+**Gnostic - Machine Learning**
 
 Classification, regression, clustering, and time series forecasting models grounded in gnostic certainty. Fully traceable and explainable.
 
@@ -116,7 +116,7 @@ Classification, regression, clustering, and time series forecasting models groun
 
 <div class="mg-module-card" markdown>
 
-**MAGNET — deep gnostic learning**
+**MAGNET - Deep Learning**
 
 Next-generation neural networks built on mathematical gnostic principles. Noise-immune. Thermodynamically grounded. Easy Pythonic API.
 
@@ -145,22 +145,22 @@ I actively welcome research collaborations that apply Machine Gnostics to new do
 <div class="mg-collab-grid" markdown>
 
 <div class="mg-collab-card" markdown>
-:material-flask-outline:   **Research partnerships**
+:material-flask-outline:   **Research Partnerships**
 Joint research, co-authorship, and applying gnostic methods to novel scientific problems.
 </div>
 
 <div class="mg-collab-card" markdown>
-:material-code-braces:   **Open source contributions**
+:material-code-braces:   **Open Source Contributions**
 Contribute new algorithms, modules, documentation, or domain-specific implementations.
 </div>
 
 <div class="mg-collab-card" markdown>
-:material-school-outline:   **PhD & postdoc supervision**
+:material-school-outline:   **Master, PhD & PostDoc Supervision**
 Supervising graduate researchers who want to work at the intersection of Mathematical Gnostics and AI.
 </div>
 
 <div class="mg-collab-card" markdown>
-:material-domain:   **Industry application**
+:material-domain:   **Industry Application**
 Applying Machine Gnostics to real industrial data challenges where small-sample or noisy data is the norm.
 </div>
 
@@ -178,6 +178,6 @@ Machine Gnostics stands on the foundation laid by **Dr. Pavel Kovanic** (1942–
 
 Deep thanks also to **Dr. Magdalena Bendová** (PhD supervisor) and **Dr. Zdeněk Wagner** (expert supervisor) at the Czech Academy of Sciences, Prague — whose mentorship, encouragement, and decades of work with Mathematical Gnostics made this journey possible.
 
-*Full history: [docs.machinegnostics.com/latest/stories/history](https://docs.machinegnostics.com/latest/stories/history){ target="_blank" }*
+*Full history: [click here!](https://docs.machinegnostics.com/latest/stories/history){ target="_blank" }*
 
 </div>

@@ -34,24 +34,28 @@ hide:
 <span class="stat-num">10+</span>
 
 <span class="stat-lbl">Years in AI & engineering</span>
+
 </div>
 
 <div class="stat-item" markdown>
 <span class="stat-num">20+</span>
 
 <span class="stat-lbl">Research publications</span>
+
 </div>
 
 <div class="stat-item" markdown>
 <span class="stat-num">3</span>
 
 <span class="stat-lbl">PhD institutions</span>
+
 </div>
 
 <div class="stat-item" markdown>
 <span class="stat-num">#1</span>
 
 <span class="stat-lbl">Non-statistical ML library</span>
+
 </div>
 
 </div>
@@ -60,7 +64,7 @@ hide:
 
 ## What makes this work different
 
-> **Redesigning the mathematical core of AI.**
+> **Redesigning the Mathematical Core of AI.**
 > Most AI relies on large datasets and statistical assumptions. Machine Gnostics encodes geometry, physics, and entropy directly into algorithms — delivering reliable results even from small, noisy, real-world data.
 
 [Explore Machine Gnostics :material-arrow-right:](https://www.machinegnostics.info/){ .md-button target="_blank" }
@@ -74,7 +78,7 @@ hide:
 <div class="service-card" markdown>
 :material-flask-outline:{ .service-icon }
 
-**Research collaboration**
+**Research Collaboration**
 
 Joint research with universities and institutes on AI, non-statistical methods, and thermal engineering applications.
 
@@ -85,7 +89,7 @@ Joint research with universities and institutes on AI, non-statistical methods, 
 <div class="service-card" markdown>
 :material-briefcase-outline:{ .service-icon }
 
-**Industry consultancy**
+**Industry Consultancy**
 
 Enterprise AI strategy, digital transformation, and small-data AI solutions that work on real-world industrial data.
 
@@ -96,7 +100,7 @@ Enterprise AI strategy, digital transformation, and small-data AI solutions that
 <div class="service-card" markdown>
 :material-microphone-outline:{ .service-icon }
 
-**Speaking & mentorship**
+**Speaking & Mentorship**
 
 Keynotes, PhD/postdoc supervision, and career coaching at the intersection of AI and engineering.
 
@@ -136,6 +140,6 @@ Keynotes, PhD/postdoc supervision, and career coaching at the intersection of AI
 
 !!! quote "Mission Statement"
 
-    *"Redesigning the mathematical core of AI. - Machine Gnostics"*
+    *"Redesigning the Mathematical Core of AI. - Machine Gnostics"*
 
     **- Dr. Nirmal Parmar**

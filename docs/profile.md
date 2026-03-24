@@ -5,14 +5,13 @@ hide:
 title: Profile
 description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, Research Scientist, and Founder of Machine Gnostics.
 ---
-
 <div class="profile-hero" markdown>
 
 <div class="profile-hero-left" markdown>
 
 # Dr. Nirmal Parmar
 
-<p class="profile-tagline">Director - Data Analytics & AI · Novartis &nbsp;|&nbsp; Research Scientist &nbsp;|&nbsp; Founder of Machine Gnostics</p>
+<p class="profile-tagline">Director - Data Analytics & AI · Novartis  |  Research Scientist  |  Founder of Machine Gnostics</p>
 
 [:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/nirmal-parmar-phd-3a440037){ .md-button .md-button--primary target="_blank" }
 
@@ -26,7 +25,7 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 
 ---
 
-!!! info "Professional summary"
+!!! info "Professional Summary"
 
     Director - Data Analytics & AI at Novartis with 10+ years of experience leading AI-driven digital transformation across international teams. Founder of Machine Gnostics — the world's first non-statistical machine learning framework. Research scientist specialising in thermal engineering and non-statistical AI, with a joint international PhD across three countries and 20+ peer-reviewed publications.
 
@@ -52,27 +51,27 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 <div class="timeline">
 
 <div class="timeline-item">
-<div class="timeline-degree">🇨🇿 🇫🇷 &nbsp; Joint International PhD — Chemical Engineering & Advanced Data Analytics</div>
-<div class="timeline-institution">UCT Prague &nbsp;·&nbsp; University of Tours, France &nbsp;·&nbsp; Czech Academy of Sciences, Prague</div>
+<div class="timeline-degree">🇨🇿 🇫🇷   Joint International PhD — Chemical Engineering & Advanced Data Analytics</div>
+<div class="timeline-institution">UCT Prague  ·  University of Tours, France  ·  Czech Academy of Sciences, Prague</div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-degree">🇩🇪 &nbsp; Research Intern — Engineering</div>
+<div class="timeline-degree">🇩🇪   Research Intern — Engineering</div>
 <div class="timeline-institution">University of Wismar, Germany</div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-degree">🇨🇿 &nbsp; Master's — Applied Mechanics</div>
+<div class="timeline-degree">🇨🇿   Master's — Applied Mechanics</div>
 <div class="timeline-institution">Czech Technical University, Prague</div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-degree">🇮🇳 &nbsp; Master's — Thermal Engineering</div>
+<div class="timeline-degree">🇮🇳   Master's — Thermal Engineering</div>
 <div class="timeline-institution">Gujarat Technological University, India</div>
 </div>
 
 <div class="timeline-item">
-<div class="timeline-degree">🇮🇳 &nbsp; Bachelor's — Mechanical Engineering</div>
+<div class="timeline-degree">🇮🇳   Bachelor's — Mechanical Engineering</div>
 <div class="timeline-institution">Veer Narmad South Gujarat University, India</div>
 </div>
 
@@ -86,7 +85,7 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 
 <div class="expertise-card" markdown>
 
-:material-robot-outline: &nbsp; **AI & machine learning**
+:material-robot-outline: &nbsp; **AI & Machine Learning**
 
 - Generative AI (GenAI) & LLM implementation
 - Custom neural networks & deep learning
@@ -108,7 +107,7 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 
 <div class="expertise-card" markdown>
 
-:material-thermometer: &nbsp; **Thermal engineering**
+:material-thermometer: &nbsp; **Thermal Engineering**
 
 - Energy storage systems
 - Renewable engineering
@@ -134,9 +133,9 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 
 ## Machine Gnostics
 
-!!! tip "World's first non-statistical ML library"
+!!! tip "World's First Non-Statistical ML Library"
 
-    **"Redesigning the mathematical core of AI"**
+    **"Redesigning the Mathematical Core of AI"**
 
     Machine Gnostics is the world's first machine learning library built on non-statistical principles — encoding geometry, physics, and entropy directly into algorithms. It delivers reliable results even from small, noisy, real-world data where conventional statistical AI fails.
 
@@ -151,4 +150,3 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 **— Dr. Nirmal Parmar**
 
 </div>
-
