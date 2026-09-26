@@ -72,9 +72,9 @@ No minimum sample size. No assumption of normal distributions. Gnostic algorithm
 
 <div class="mg-pillar" markdown>
 
-:material-magnify-scan: &nbsp; **Fully Explainable**
+:material-magnify-scan: &nbsp; **New Explainability**
 
-Every result traces back to mathematical first principles. No black boxes. Every parameter is interpretable in terms of geometry and thermodynamics — making Machine Gnostics uniquely suited for regulated industries and scientific research.
+Every result traces back to geometry, physics, and thermodynamics without statistical assumptions — fully interpretable and auditable for regulated industries and scientific research.
 
 </div>
 

@@ -11,7 +11,7 @@ hide:
 
 # Dr. Nirmal Parmar
 
-**Research scientist & AI innovator** bridging thermal engineering and non-statistical artificial intelligence. Founder of [Machine Gnostics](https://www.machinegnostics.info/) — the world's first non-statistical ML library.
+**Research scientist & AI innovator** bridging thermal engineering and non-statistical artificial intelligence. Founder of [Machine Gnostics](https://www.machinegnostics.com/) — the world's first non-statistical ML library.
 
 <div class="hero-ctas" markdown>
 [:material-email-outline: Get in touch](contact.md){ .md-button .md-button--primary }
@@ -31,7 +31,7 @@ hide:
 <div class="stats-bar" markdown>
 
 <div class="stat-item" markdown>
-<span class="stat-num">10+</span>
+<span class="stat-num">14+</span>
 
 <span class="stat-lbl">Years in AI & engineering</span>
 
@@ -67,7 +67,7 @@ hide:
 > **Redesigning the Mathematical Core of AI.**
 > Most AI relies on large datasets and statistical assumptions. Machine Gnostics encodes geometry, physics, and entropy directly into algorithms — delivering reliable results even from small, noisy, real-world data.
 
-[Explore Machine Gnostics :material-arrow-right:](https://www.machinegnostics.info/){ .md-button target="_blank" }
+[Explore Machine Gnostics :material-arrow-right:](https://www.machinegnostics.com/){ .md-button target="_blank" }
 
 ---
 
@@ -122,7 +122,7 @@ Keynotes, PhD/postdoc supervision, and career coaching at the intersection of AI
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4603-1550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nirmalparmarphd)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nirmalparmarphd)
-[![Machine Gnostics](https://img.shields.io/badge/Machine_Gnostics-FF6B6B?style=flat-square&logo=atom&logoColor=white)](https://www.machinegnostics.info/)
+[![Machine Gnostics](https://img.shields.io/badge/Machine_Gnostics-FF6B6B?style=flat-square&logo=atom&logoColor=white)](https://www.machinegnostics.com/)
 
 </div>
 
