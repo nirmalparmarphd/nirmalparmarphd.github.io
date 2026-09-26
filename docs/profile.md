@@ -18,7 +18,7 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 </div>
 
 <div class="profile-hero-right" markdown>
-![Dr. Nirmal Parmar](image/nirmal.jpg){ .profile-photo }
+![Dr. Nirmal Parmar - AI Researcher, Machine Learning Expert, and Machine Gnostics Founder](image/nirmal.jpg){ .profile-photo }
 </div>
 
 </div>

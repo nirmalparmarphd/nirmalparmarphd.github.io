@@ -21,7 +21,7 @@ description: Dr. Nirmal Parmar — Founder of Machine Gnostics, the world's firs
 </div>
 
 <div class="mg-hero-logo" markdown>
-![Machine Gnostics](https://machinegnostics.com/images/logo.png){ .mg-logo }
+![Machine Gnostics - Non-Statistical Machine Learning Library Logo](https://machinegnostics.com/images/logo.png){ .mg-logo }
 </div>
 
 </div>
@@ -167,6 +167,58 @@ Applying Machine Gnostics to real industrial data challenges where small-sample 
 </div>
 
 [Get in touch :material-email-outline:](contact.md){ .md-button .md-button--primary }
+
+---
+
+## Frequently Asked Questions
+
+??? question "What makes Machine Gnostics different from statistical machine learning?"
+
+    Traditional ML (scikit-learn, PyTorch) relies on statistical assumptions: your data must come from probability distributions, you need large sample sizes (typically thousands), and uncertainty is treated as random noise. 
+    
+    Machine Gnostics encodes **geometry, physics, and thermodynamics** directly. It treats uncertainty as material cause, not randomness. This means:
+
+    - Works with **10-20 data points** instead of thousands
+    - No statistical assumptions needed
+    - Every result is **fully traceable** to physical laws
+    - Results are interpretable for regulated industries
+
+??? question "Can I use Machine Gnostics for my problem?"
+
+    Machine Gnostics excels when:
+
+    - Your dataset is **small** (< 100 samples typical)
+    - Data is **noisy or corrupted** (sensors fail, experiments are expensive)
+    - You need new **explainability** (regulated industries, scientific research)
+    
+    [Connect with me](contact.md) if you're unsure.
+
+??? question "How do I get started?"
+
+    Install with one line:
+    ```bash
+    pip install machinegnostics
+    ```
+    
+    Then explore:
+
+    - **Quick start guide**: [docs.machinegnostics.com](https://docs.machinegnostics.com){ target="_blank" }
+    - **Jupyter tutorials**: Available in the docs
+    - **GitHub examples**: [github.com/MachineGnostics](https://github.com/MachineGnostics/machinegnostics){ target="_blank" }
+
+??? question "Is Machine Gnostics open source?"
+
+    Yes! Machine Gnostics is fully open source. Contributions welcome on [GitHub](https://github.com/MachineGnostics/machinegnostics){ target="_blank" }.
+
+??? question "Can I collaborate or contribute?"
+
+    Absolutely. I welcome:
+    
+    - **Research partnerships** on new applications
+    - **Open source contributions** (algorithms, documentation, examples)
+    - **PhD/postdoc supervision** at the intersection of gnostic ML and your domain
+    
+    [Get in touch](contact.md) with your ideas!
 
 ---
 

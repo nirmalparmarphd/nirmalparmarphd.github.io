@@ -2,6 +2,9 @@
 hide:
   - navigation
   - toc
+title: Dr. Nirmal Parmar - AI Researcher & Machine Gnostics Founder
+description: AI researcher and Director of Data Analytics at Novartis. Founder of Machine Gnostics, the world's first non-statistical ML library for small data analysis.
+keywords: non-statistical ML, small data AI, Machine Gnostics, thermal engineering, AI researcher
 ---
 <div class="hero-section" markdown>
 
@@ -21,7 +24,7 @@ hide:
 </div>
 
 <div class="hero-right" markdown>
-![Dr. Nirmal Parmar](image/nirmal.jpg){ .hero-photo }
+![Dr. Nirmal Parmar - Director of Data Analytics and AI at Novartis](image/nirmal.jpg){ .hero-photo }
 </div>
 
 </div>
@@ -40,7 +43,7 @@ hide:
 <div class="stat-item" markdown>
 <span class="stat-num">20+</span>
 
-<span class="stat-lbl">Research publications</span>
+<span class="stat-lbl">[Research publications](publications.md)</span>
 
 </div>
 
@@ -65,9 +68,9 @@ hide:
 ## What makes this work different
 
 > **Redesigning the Mathematical Core of AI.**
-> Most AI relies on large datasets and statistical assumptions. Machine Gnostics encodes geometry, physics, and entropy directly into algorithms — delivering reliable results even from small, noisy, real-world data.
+> Most AI relies on large datasets and statistical assumptions. [**Machine Gnostics**](ai-mg.md) encodes geometry, physics, and entropy directly into algorithms — delivering reliable results even from small, noisy, real-world data.
 
-[Explore Machine Gnostics :material-arrow-right:](https://www.machinegnostics.com/){ .md-button target="_blank" }
+[Explore Machine Gnostics :material-arrow-right:](ai-mg.md){ .md-button target="_blank" }
 
 ---
 

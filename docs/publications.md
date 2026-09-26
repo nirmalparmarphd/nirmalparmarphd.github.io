@@ -1,3 +1,9 @@
+---
+title: Publications - Dr. Nirmal Parmar
+description: Peer-reviewed research publications by Dr. Nirmal Parmar on thermal engineering, non-statistical ML, and data analysis from leading journals and conferences.
+keywords: publications, research papers, thermal engineering, machine learning, peer-reviewed
+---
+
 # Publications
 
 ## Peer-Reviewed Journal Articles

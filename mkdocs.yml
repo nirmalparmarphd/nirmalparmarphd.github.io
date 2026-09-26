@@ -2,13 +2,14 @@ site_name: Dr. Nirmal Parmar
 site_url: https://nirmalparmar.in
 # repo_url: https://github.com/nirmalparmarphd
 # repo_name: nirmalparmarphd/np-io
-site_description: "Dr. Nirmal Parmar's personal website"
+site_description: "AI researcher, Director of Data Analytics at Novartis, and Founder of Machine Gnostics — the world's first non-statistical machine learning library for small data analysis"
 site_author: Nirmal Parmar
 copyright: 
   "Copyright © Nirmal Parmar"
 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     logo: material/alpha-n-box
     favicon: material/alpha-n-box
@@ -62,6 +63,9 @@ extra:
     - icon: fontawesome/brands/researchgate
       link: https://www.researchgate.net/profile/Nirmal-Parmar
       name: ResearchGate
+  
+  og_image: "https://nirmalparmar.in/image/nirmal.jpg"
+  og_image_alt: "Dr. Nirmal Parmar - Director, AI Researcher and Machine Gnostics Founder"
       
   consent:
     title: Cookie consent

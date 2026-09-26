@@ -1,3 +1,9 @@
+---
+title: Contact Dr. Nirmal Parmar - Research & Consulting
+description: Connect with Dr. Nirmal Parmar for research collaborations, industry consulting, or Machine Gnostics partnerships. Email and collaboration opportunities.
+keywords: contact, research collaboration, consulting, Machine Gnostics
+---
+
 # Get In Touch
 
 ## Connect with Dr. Nirmal Parmar
