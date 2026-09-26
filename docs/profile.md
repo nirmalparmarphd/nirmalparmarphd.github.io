@@ -27,7 +27,7 @@ description: Dr. Nirmal Parmar — Director - Data Analytics & AI at Novartis, R
 
 !!! info "Professional Summary"
 
-    Director - Data Analytics & AI at Novartis with 10+ years of experience leading AI-driven digital transformation across international teams. Founder of Machine Gnostics — the world's first non-statistical machine learning framework. Research scientist specialising in thermal engineering and non-statistical AI, with a joint international PhD across three countries and 20+ peer-reviewed publications.
+    Director - Data Analytics & AI at Novartis with 14+ years of experience leading AI-driven digital transformation across international teams. Founder of Machine Gnostics — the world's first non-statistical machine learning framework. Research scientist specialising in thermal engineering and non-statistical AI, with a joint international PhD across three countries and 20+ publications.
 
 ---
 

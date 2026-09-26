@@ -36,7 +36,7 @@ keywords: non-statistical ML, small data AI, Machine Gnostics, thermal engineeri
 <div class="stat-item" markdown>
 <span class="stat-num">14+</span>
 
-<span class="stat-lbl">Years in AI & engineering</span>
+<span class="stat-lbl">Years in AI & Engineering</span>
 
 </div>
 
@@ -50,14 +50,14 @@ keywords: non-statistical ML, small data AI, Machine Gnostics, thermal engineeri
 <div class="stat-item" markdown>
 <span class="stat-num">3</span>
 
-<span class="stat-lbl">PhD institutions</span>
+<span class="stat-lbl">[PhD institutions](profile.md)</span>
 
 </div>
 
 <div class="stat-item" markdown>
 <span class="stat-num">#1</span>
 
-<span class="stat-lbl">Non-statistical ML library</span>
+<span class="stat-lbl">[Non-statistical ML library](ai-mg.md)</span>
 
 </div>
 
