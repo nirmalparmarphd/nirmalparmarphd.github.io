@@ -36,6 +36,8 @@ keywords: publications, research papers, thermal engineering, machine learning, 
 
 <small>
 
+**Nirmal Parmar.** Machine Gnostics: A Step Towards Non-Statistical Machine Learning, *Conference paper*, OSSConf, July 2026, Zilina, Slovakia. *[ResearchGate](https://www.researchgate.net/publication/414824809_MACHINE_GNOSTICS_-A_STEP_TOWARDS_NON-STATISTICAL_DATA_ANALYSIS_AND_MACHINE_LEARNING){ target="_blank" }*
+
 **Bharti, O.S., Parmar, K. & Parmar, N.** Numerical Investigation of Fluid-Structure Interaction in a Solar Water Heating System Under Varying Collector Tilt Angles. *Conference Paper*, Dec 2025. [ResearchGate](https://www.researchgate.net/publication/398938997_Numerical_Investigation_of_Fluid-Structure_Interaction_in_a_Solar_Water_Heating_System_Under_Varying_Collector_Tilt_Angles)
 
 **Parmar, K., Parwani, A.K. & Parmar, N.** Novel approach to identify the effective heating region of closed-loop pulsating heat pipe using four-step method. *Conference Paper*, Jun 2025. [ResearchGate](https://www.researchgate.net/publication/393514319_Novel_approach_to_identify_the_effective_heating_region_of_closed-loop_pulsating_heat_pipe_using_four-step_method)
@@ -80,7 +82,7 @@ keywords: publications, research papers, thermal engineering, machine learning, 
 
 <small>
 
-**Nirmal Parmar.** Machine Gnostics: A Step Towards Non-Statistical Machine Learning. *[OSSConf 2026](https://ossconf.fri.uniza.sk/vyziadane-prednasky/){ target="_blank" }*, University of Žilina, Slovakia, July 2026. — Invited.
+**Nirmal Parmar.** Machine Gnostics: A Step Towards Non-Statistical Machine Learning and AI. *[OSSConf 2026](https://ossconf.fri.uniza.sk/vyziadane-prednasky/){ target="_blank" }*, University of Žilina, Slovakia, July 2026. — Invited.
 
 **Nirmal Parmar.** AI & ML for Research and Engineering Applications. *GIMCA 2026*, India, April 2026. — Keynote.
 
