@@ -6,143 +6,112 @@ title: Dr. Nirmal Parmar - AI Researcher & Machine Gnostics Founder
 description: AI researcher and Director of Data Analytics at Novartis. Founder of Machine Gnostics, the world's first non-statistical ML library for small data analysis.
 keywords: non-statistical ML, small data AI, Machine Gnostics, thermal engineering, AI researcher
 ---
-<div class="hero-section" markdown>
+<section class="home-hero" markdown>
 
-<div class="hero-left" markdown>
+<div class="home-hero-text" markdown>
 
-<span class="hero-tag">Director - Data Analytics & AI · Novartis</span>
+<span class="home-eyebrow">Director, Data Analytics & AI · Novartis</span>
 
 # Dr. Nirmal Parmar
 
-**Research scientist & AI innovator** bridging thermal engineering and non-statistical artificial intelligence. Founder of [Machine Gnostics](https://www.machinegnostics.com/) — the world's first non-statistical ML library.
+<p class="home-lede" markdown>Research scientist and AI innovator bridging thermal engineering and non-statistical artificial intelligence. Founder of [Machine Gnostics](https://www.machinegnostics.com/), the world's first non-statistical ML library.</p>
 
-<div class="hero-ctas" markdown>
-[:material-email-outline: Get in touch](contact.md){ .md-button .md-button--primary }
-[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/nirmal-parmar-phd-3a440037){ .md-button target="_blank" }
+<div class="home-actions" markdown>
+[Get in touch](contact.md){ .md-button .md-button--primary }
+[Explore Machine Gnostics](ai-mg.md){ .md-button }
 </div>
 
 </div>
 
-<div class="hero-right" markdown>
-![Dr. Nirmal Parmar - Director of Data Analytics and AI at Novartis](image/nirmal.jpg){ .hero-photo }
+<div class="home-hero-media" markdown>
+![Dr. Nirmal Parmar - Director of Data Analytics and AI at Novartis](image/nirmal.jpg){ .home-photo }
 </div>
 
-</div>
+</section>
 
----
+<section class="home-section home-feature" markdown>
 
-<div class="stats-bar" markdown>
+<span class="home-eyebrow">Machine Gnostics</span>
 
-<div class="stat-item" markdown>
-<span class="stat-num">14+</span>
+## Redesigning the Mathematical Core of AI
 
-<span class="stat-lbl">Years in AI & Engineering</span>
+Most AI relies on large datasets and statistical assumptions. [Machine Gnostics](ai-mg.md) encodes geometry, physics, and entropy directly into algorithms, delivering reliable results even from small, noisy, real-world data.
 
-</div>
+[Explore Machine Gnostics :material-arrow-right:](ai-mg.md){ .home-link }
 
-<div class="stat-item" markdown>
-<span class="stat-num">20+</span>
+</section>
 
-<span class="stat-lbl">[Research publications](publications.md)</span>
+<section class="home-section" markdown>
 
-</div>
+## How I can help
 
-<div class="stat-item" markdown>
-<span class="stat-num">3</span>
+<div class="home-services" markdown>
 
-<span class="stat-lbl">[PhD institutions](profile.md)</span>
+<div class="home-service" markdown>
+:material-flask-outline:{ .home-service-icon }
 
-</div>
-
-<div class="stat-item" markdown>
-<span class="stat-num">#1</span>
-
-<span class="stat-lbl">[Non-statistical ML library](ai-mg.md)</span>
-
-</div>
-
-</div>
-
----
-
-## What makes this work different
-
-> **Redesigning the Mathematical Core of AI.**
-> Most AI relies on large datasets and statistical assumptions. [**Machine Gnostics**](ai-mg.md) encodes geometry, physics, and entropy directly into algorithms — delivering reliable results even from small, noisy, real-world data.
-
-[Explore Machine Gnostics :material-arrow-right:](ai-mg.md){ .md-button target="_blank" }
-
----
-
-## How I can help you
-
-<div class="services-grid" markdown>
-
-<div class="service-card" markdown>
-:material-flask-outline:{ .service-icon }
-
-**Research Collaboration**
+### Research collaboration
 
 Joint research with universities and institutes on AI, non-statistical methods, and thermal engineering applications.
 
-[Let&#39;s connect](contact.md)
+[Let's connect](contact.md){ .home-link }
 
 </div>
 
-<div class="service-card" markdown>
-:material-briefcase-outline:{ .service-icon }
+<div class="home-service" markdown>
+:material-briefcase-outline:{ .home-service-icon }
 
-**Industry Consultancy**
+### Industry consultancy
 
 Enterprise AI strategy, digital transformation, and small-data AI solutions that work on real-world industrial data.
 
-[Let&#39;s connect](contact.md)
+[Let's connect](contact.md){ .home-link }
 
 </div>
 
-<div class="service-card" markdown>
-:material-microphone-outline:{ .service-icon }
+<div class="home-service" markdown>
+:material-microphone-outline:{ .home-service-icon }
 
-**Speaking & Mentorship**
+### Speaking & mentorship
 
 Keynotes, PhD/postdoc supervision, and career coaching at the intersection of AI and engineering.
 
-[Let&#39;s connect](contact.md)
+[Let's connect](contact.md){ .home-link }
 
 </div>
 
 </div>
 
----
+</section>
 
-## Connect with me
+<section class="home-section" markdown>
 
-<div class="social-links" markdown>
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-parmar-phd-3a440037)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nirmal-Parmar)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4603-1550)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nirmalparmarphd)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nirmalparmarphd)
-[![Machine Gnostics](https://img.shields.io/badge/Machine_Gnostics-FF6B6B?style=flat-square&logo=atom&logoColor=white)](https://www.machinegnostics.com/)
-
+<div class="home-links" markdown>
+[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/nirmal-parmar-phd-3a440037){ target="_blank" rel="noopener" }
+[:fontawesome-solid-graduation-cap: Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en){ target="_blank" rel="noopener" }
+[:fontawesome-brands-researchgate: ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar){ target="_blank" rel="noopener" }
+[:fontawesome-brands-orcid: ORCID](https://orcid.org/0000-0003-4603-1550){ target="_blank" rel="noopener" }
+[:fontawesome-brands-github: GitHub](https://github.com/nirmalparmarphd){ target="_blank" rel="noopener" }
+[:fontawesome-brands-medium: Medium](https://medium.com/@nirmalparmarphd){ target="_blank" rel="noopener" }
+[:fontawesome-solid-seedling: Machine Gnostics](https://www.machinegnostics.com/){ target="_blank" rel="noopener" }
 </div>
 
-## Collaborations
+</section>
 
-!!! success "Collaboration Opportunities"
+<section class="home-section home-collab" markdown>
 
-    Dr. Parmar welcomes collaboration with forward-thinking organizations, research institutions, and individual researchers who are ready to explore the transformative potential of non-statistical AI in engineering and business applications.
+## Open to collaboration
 
-    [Get in Touch](contact.md)
+Dr. Parmar welcomes collaboration with forward-thinking organizations, research institutions, and individual researchers who are ready to explore the transformative potential of non-statistical AI in engineering and business applications.
 
-    [Explore Machine Gnostics](ai-mg.md)
+[Get in touch](contact.md){ .md-button .md-button--primary }
 
----
+</section>
 
-!!! quote "Mission Statement"
+<blockquote class="home-quote" markdown>
+*"Redesigning the Mathematical Core of AI."*
 
-    *"Redesigning the Mathematical Core of AI. - Machine Gnostics"*
-
-    **- Dr. Nirmal Parmar**
+— Dr. Nirmal Parmar
+</blockquote>
